@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4905",
+  "folder": "Other__DYH5uKXoC_D_20260514085054_edd623",
+  "base_name": "Other__DYH5uKXoC_D_20260514085054_edd623.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/verfan01/Cloud-Downloads-2/releases/tag/co-releases-v1-4905",
+  "files": [
+    {
+      "name": "Other__DYH5uKXoC_D_20260514085054_edd623.bin",
+      "url": "https://github.com/verfan01/Cloud-Downloads-2/releases/download/co-releases-v1-4905/Other__DYH5uKXoC_D_20260514085054_edd623.bin",
+      "api_url": "https://api.github.com/repos/verfan01/Cloud-Downloads-2/releases/assets/420020691",
+      "id": 420020691,
+      "size": 816123,
+      "download_count": 0
+    }
+  ]
+}
